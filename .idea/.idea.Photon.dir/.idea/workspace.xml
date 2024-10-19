@@ -9,15 +9,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96759cdb-b0c6-4c8e-9e60-261b576a4adb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/ImagesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jobs/DeleteImagesJob.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middleware/AuthenticationMiddleware.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Photon.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Photon.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/ImageController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photon.ImageDb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Photon.ImageDb.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9191eac31f284a10b284fabb9f96c4bcc2d600/7c/3225a3ed/ExceptionDispatchInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4a3b7b89dc2ba7a1a10447079cf3eb22e1ed83c985bac69f9521180491d/BootstrapHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5269ea617c343bff1193bdba32428f6cdb945476722be3ade644dfe7ee633ac/StaticWebAssetsLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/661861d2f496c2dbfec4ea5554546fc42e67528c7f93c28d0c05b814a7991/PhysicalFileProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/75a913e9a7f21ec51df825066a2374e58efe6284a9f27a94ad93a275eb2d98/WebApplicationBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f0c16cda8a141e194c9151fd8f6acd0f93ef39e54a2a250baf2e5b2fa1fac6/WebApplication.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -45,7 +66,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Photon.ImageDb: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+    <configuration name="Photon.ImageDb: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile" singleton="true">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Photon.ImageDb.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
       <option name="LAUNCH_PROFILE_NAME" value="http" />
@@ -69,7 +90,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729290840980</updated>
-      <workItem from="1729290841999" duration="1549000" />
+      <workItem from="1729290841999" duration="12754000" />
+      <workItem from="1729314465088" duration="7065000" />
+      <workItem from="1729336393462" duration="599000" />
+      <workItem from="1729340929748" duration="2072000" />
     </task>
     <servers />
   </component>
